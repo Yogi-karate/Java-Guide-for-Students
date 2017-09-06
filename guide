@@ -1,15 +1,1 @@
-first..
-  install Apache poi..
-   in eclipse, click on project, then select build path, then select external jars
-   then add all the jars in apache poi, lib folder and ooxml-lib folder, except the poi-examples jar
-secondly..
-   you need to install any database(we are using postgresql here)
-    you need to download a respective jar that support jdbc(here we are using jdbc jar for postgresql)
-    you need to add that jar in java->jre->lib->ext folder.
-    
-    
-    this is environment setup.
-   
-   then create a table and change code for your convience.
-    
-   
+
